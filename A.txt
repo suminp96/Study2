@@ -1,1 +1,6 @@
-adfadfadf
+void main(){
+	return 0;
+}
+
+void func1(){
+}
